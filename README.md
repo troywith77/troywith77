@@ -2,6 +2,9 @@
 
 🥂 Cheers!
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=troywith77&show_icons=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=troywith77)
+
+
 <!--
 **troywith77/troywith77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
